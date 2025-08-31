@@ -1,0 +1,1 @@
+Flash the hex file to the board directly and replace the other files.
