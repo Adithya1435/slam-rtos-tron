@@ -1,0 +1,11 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:44:15:knl_searchDevCB	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:93:12:tk_def_dev	24	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:183:12:tk_ref_idv	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:200:12:knl_phydevnm	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:254:12:tk_get_dev	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:287:12:tk_ref_dev	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:323:12:tk_oref_dev	24	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:359:13:tk_lst_dev	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:404:13:tk_evt_dev	24	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:567:11:knl_finish_devmgr	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/device.c:507:11:knl_initialize_devmgr	16	static

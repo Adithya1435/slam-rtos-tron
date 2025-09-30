@@ -1,0 +1,8 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/eventflag.c:214:12:flg_chg_pri	0	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/eventflag.c:33:11:knl_eventflag_initialize	12	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/eventflag.c:56:12:tk_cre_flg	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/eventflag.c:104:12:tk_del_flg	24	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/eventflag.c:133:12:tk_set_flg	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/eventflag.c:191:12:tk_clr_flg	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/eventflag.c:231:12:tk_wai_flg	48	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/eventflag.c:287:12:tk_ref_flg	24	static

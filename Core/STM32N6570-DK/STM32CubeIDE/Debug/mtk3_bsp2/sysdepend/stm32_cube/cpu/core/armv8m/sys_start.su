@@ -1,0 +1,1 @@
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/sys_start.c:47:13:knl_start_mtkernel	8	static,ignoring_inline_asm

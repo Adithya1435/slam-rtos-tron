@@ -1,0 +1,7 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempfix.c:197:12:knl_mpf_chg_pri	0	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempfix.c:34:11:knl_fix_memorypool_initialize	12	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempfix.c:59:12:tk_cre_mpf	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempfix.c:154:12:tk_del_mpf	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempfix.c:214:12:tk_get_mpf	48	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempfix.c:271:12:tk_rel_mpf	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempfix.c:322:12:tk_ref_mpf	24	static

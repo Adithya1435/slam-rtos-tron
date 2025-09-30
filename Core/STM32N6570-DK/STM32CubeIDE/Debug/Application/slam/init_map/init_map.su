@@ -1,0 +1,9 @@
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/init_map/init_map.c:14:6:save_vec3	16	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/init_map/init_map.c:29:17:match_and_correspond	24	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/init_map/init_map.c:38:6:normalize_pixel_to_vec	120	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/init_map/init_map.c:57:7:get_depth_from_map	0	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/init_map/init_map.c:61:6:extract_depth_from_npu	24	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/init_map/init_map.c:76:6:pack_to_point3	20	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/init_map/init_map.c:89:6:get_raw_points	20	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/init_map/init_map.c:100:6:get_norm_points	20	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/init_map/init_map.c:111:5:init_map	248	dynamic

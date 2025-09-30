@@ -1,0 +1,3 @@
+../mtk3_bsp2/sysdepend/stm32_cube/hw_setting.c:28:13:knl_startup_hw	0	static
+../mtk3_bsp2/sysdepend/stm32_cube/hw_setting.c:40:13:knl_shutdown_hw	8	static
+../mtk3_bsp2/sysdepend/stm32_cube/hw_setting.c:53:11:knl_restart_hw	8	static

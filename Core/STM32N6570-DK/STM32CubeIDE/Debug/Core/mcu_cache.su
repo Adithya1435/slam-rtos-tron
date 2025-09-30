@@ -1,0 +1,9 @@
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/mcu_cache.c:22:5:mcu_cache_enable	16	static,ignoring_inline_asm
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/mcu_cache.c:28:5:mcu_cache_disable	16	static,ignoring_inline_asm
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/mcu_cache.c:34:5:mcu_cache_invalidate	16	static,ignoring_inline_asm
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/mcu_cache.c:42:5:mcu_cache_clean	16	static,ignoring_inline_asm
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/mcu_cache.c:50:5:mcu_cache_clean_invalidate	16	static,ignoring_inline_asm
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/mcu_cache.c:58:5:mcu_cache_invalidate_range	12	static,ignoring_inline_asm
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/mcu_cache.c:66:5:mcu_cache_clean_range	12	static,ignoring_inline_asm
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/mcu_cache.c:72:6:mcu_cache_clean_invalidate_range	12	static,ignoring_inline_asm
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Middlewares/AI_Runtime/Npu/Devices/STM32N6XX/mcu_cache.c:79:6:set_mcu_cache_state	16	static,ignoring_inline_asm

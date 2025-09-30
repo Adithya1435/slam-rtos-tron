@@ -1,0 +1,5 @@
+../mtk3_bsp2/mtkernel/lib/libtm/libtm.c:28:13:libtm_init	1
+../mtk3_bsp2/mtkernel/lib/libtm/libtm.c:37:12:tm_getchar	1
+../mtk3_bsp2/mtkernel/lib/libtm/libtm.c:53:12:tm_getline	3
+../mtk3_bsp2/mtkernel/lib/libtm/libtm.c:83:12:tm_putchar	2
+../mtk3_bsp2/mtkernel/lib/libtm/libtm.c:103:12:tm_putstring	2

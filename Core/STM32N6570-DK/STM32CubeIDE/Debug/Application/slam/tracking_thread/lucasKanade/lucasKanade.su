@@ -1,0 +1,6 @@
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/tracking_thread/lucasKanade/lucasKanade.c:6:10:get_pixel	0	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/tracking_thread/lucasKanade/lucasKanade.c:11:6:init_gaussian_kernel	40	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/tracking_thread/lucasKanade/lucasKanade.c:31:6:compute_gradient	32	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/tracking_thread/lucasKanade/lucasKanade.c:42:6:debug_cords	0	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/tracking_thread/lucasKanade/lucasKanade.c:48:6:update_tensor	8	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/tracking_thread/lucasKanade/lucasKanade.c:55:6:lucasKanade	112	static

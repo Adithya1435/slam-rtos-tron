@@ -1,0 +1,13 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:120:12:knl_del_tsk	2
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:197:12:knl_ter_tsk	7
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:29:12:tk_cre_tsk	12
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:140:12:tk_del_tsk	11
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:169:12:tk_sta_tsk	11
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:224:14:tk_ext_tsk	5
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:264:14:tk_exd_tsk	5
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:292:12:tk_ter_tsk	12
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:330:12:tk_chg_pri	12
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:382:12:tk_rot_rdq	7
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:408:12:tk_get_tid	2
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:418:12:tk_ref_tsk	11
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_manage.c:463:12:tk_rel_wai	8

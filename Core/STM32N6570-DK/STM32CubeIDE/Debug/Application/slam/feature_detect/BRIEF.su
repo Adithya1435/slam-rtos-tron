@@ -1,0 +1,4 @@
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/feature_detect/BRIEF.c:4:6:generate_test_pattern	24	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/feature_detect/BRIEF.c:13:7:compute_orientation	40	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/feature_detect/BRIEF.c:33:17:compute_rbrief_descriptor	40	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/slam/feature_detect/BRIEF.c:67:17:compute_keypoint_rbrief	24	static

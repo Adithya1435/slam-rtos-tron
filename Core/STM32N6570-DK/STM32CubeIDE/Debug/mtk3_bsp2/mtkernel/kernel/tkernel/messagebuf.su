@@ -1,0 +1,10 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/messagebuf.c:59:12:knl_msg_to_mbf	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/messagebuf.c:94:12:knl_mbf_wakeup	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/messagebuf.c:250:12:knl_mbf_chg_pri	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/messagebuf.c:268:12:knl_mbf_rel_wai	0	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/messagebuf.c:34:11:knl_messagebuffer_initialize	12	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/messagebuf.c:116:12:tk_cre_mbf	24	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/messagebuf.c:211:12:tk_del_mbf	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/messagebuf.c:282:12:tk_snd_mbf	48	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/messagebuf.c:380:13:tk_rcv_mbf	64	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/messagebuf.c:437:12:tk_ref_mbf	32	static

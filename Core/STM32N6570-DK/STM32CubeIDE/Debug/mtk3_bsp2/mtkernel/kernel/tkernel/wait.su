@@ -1,0 +1,13 @@
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/STM32CubeIDE/mtk3_bsp2/mtkernel/include/sys/queue.h:71:13:QueRemove	0	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:43:13:knl_wait_release_tmout	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.h:155:13:knl_wait_release	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:22:13:knl_wait_release_ok	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:28:13:knl_wait_release_ok_ercd	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:34:13:knl_wait_release_ng	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:65:13:knl_make_wait	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:79:13:knl_make_wait_reltim	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:97:13:knl_wait_delete	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:111:11:knl_wait_tskid	0	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:124:13:knl_gcb_make_wait	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:143:13:knl_gcb_change_priority	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/wait.c:154:13:knl_gcb_top_of_wait_queue	0	static

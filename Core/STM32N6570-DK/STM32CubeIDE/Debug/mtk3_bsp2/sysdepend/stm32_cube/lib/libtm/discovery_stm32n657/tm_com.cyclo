@@ -1,0 +1,3 @@
+../mtk3_bsp2/sysdepend/stm32_cube/lib/libtm/discovery_stm32n657/tm_com.c:58:13:tm_snd_dat	4
+../mtk3_bsp2/sysdepend/stm32_cube/lib/libtm/discovery_stm32n657/tm_com.c:70:13:tm_rcv_dat	3
+../mtk3_bsp2/sysdepend/stm32_cube/lib/libtm/discovery_stm32n657/tm_com.c:80:13:tm_com_init	1

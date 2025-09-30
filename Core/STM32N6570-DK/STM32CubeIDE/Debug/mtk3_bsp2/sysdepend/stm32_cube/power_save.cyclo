@@ -1,0 +1,2 @@
+../mtk3_bsp2/sysdepend/stm32_cube/power_save.c:28:13:low_pow	1
+../mtk3_bsp2/sysdepend/stm32_cube/power_save.c:35:13:off_pow	1

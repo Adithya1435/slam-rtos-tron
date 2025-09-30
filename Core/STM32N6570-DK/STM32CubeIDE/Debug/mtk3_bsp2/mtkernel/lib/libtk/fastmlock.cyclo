@@ -1,0 +1,5 @@
+../mtk3_bsp2/mtkernel/lib/libtk/fastmlock.c:77:11:MLockTmo	3
+../mtk3_bsp2/mtkernel/lib/libtk/fastmlock.c:104:11:MLock	1
+../mtk3_bsp2/mtkernel/lib/libtk/fastmlock.c:113:11:MUnlock	2
+../mtk3_bsp2/mtkernel/lib/libtk/fastmlock.c:127:11:CreateMLock	2
+../mtk3_bsp2/mtkernel/lib/libtk/fastmlock.c:151:11:DeleteMLock	3

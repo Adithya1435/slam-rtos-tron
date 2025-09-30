@@ -1,0 +1,2 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/misc_calls.c:27:12:tk_ref_sys	12
+../mtk3_bsp2/mtkernel/kernel/tkernel/misc_calls.c:63:12:tk_ref_ver	1

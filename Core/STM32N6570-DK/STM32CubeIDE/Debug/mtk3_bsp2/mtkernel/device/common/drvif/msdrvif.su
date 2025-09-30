@@ -1,0 +1,8 @@
+../mtk3_bsp2/mtkernel/device/common/drvif/msdrvif.c:94:11:msdi_waitfn	0	static
+../mtk3_bsp2/mtkernel/device/common/drvif/msdrvif.c:102:10:msdi_abortfn	0	static
+../mtk3_bsp2/mtkernel/device/common/drvif/msdrvif.c:72:10:msdi_execfn	24	static
+../mtk3_bsp2/mtkernel/device/common/drvif/msdrvif.c:110:11:msdi_eventfn	24	static
+../mtk3_bsp2/mtkernel/device/common/drvif/msdrvif.c:56:10:msdi_closefn	24	static
+../mtk3_bsp2/mtkernel/device/common/drvif/msdrvif.c:40:10:msdi_openfn	24	static
+../mtk3_bsp2/mtkernel/device/common/drvif/msdrvif.c:131:11:msdi_def_dev	80	static
+../mtk3_bsp2/mtkernel/device/common/drvif/msdrvif.c:184:11:msdi_del_dev	8	static

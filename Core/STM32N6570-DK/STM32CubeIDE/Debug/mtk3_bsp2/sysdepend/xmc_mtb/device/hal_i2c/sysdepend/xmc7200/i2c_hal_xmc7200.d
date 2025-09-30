@@ -1,0 +1,10 @@
+mtk3_bsp2/sysdepend/xmc_mtb/device/hal_i2c/sysdepend/xmc7200/i2c_hal_xmc7200.o: \
+ ../mtk3_bsp2/sysdepend/xmc_mtb/device/hal_i2c/sysdepend/xmc7200/i2c_hal_xmc7200.c \
+ C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/STM32CubeIDE/mtk3_bsp2/include/sys/machine.h \
+ C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/STM32CubeIDE/mtk3_bsp2/include/sys/sysdepend/stm32_cube/discovery_stm32n657/machine.h \
+ C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/STM32CubeIDE/mtk3_bsp2/include/sys/sysdepend/stm32_cube/cpu/core/armv8m/machine.h \
+ C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/STM32CubeIDE/mtk3_bsp2/config/config_bsp/xmc_mtb/config_bsp.h
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/STM32CubeIDE/mtk3_bsp2/include/sys/machine.h:
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/STM32CubeIDE/mtk3_bsp2/include/sys/sysdepend/stm32_cube/discovery_stm32n657/machine.h:
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/STM32CubeIDE/mtk3_bsp2/include/sys/sysdepend/stm32_cube/cpu/core/armv8m/machine.h:
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/STM32CubeIDE/mtk3_bsp2/config/config_bsp/xmc_mtb/config_bsp.h:

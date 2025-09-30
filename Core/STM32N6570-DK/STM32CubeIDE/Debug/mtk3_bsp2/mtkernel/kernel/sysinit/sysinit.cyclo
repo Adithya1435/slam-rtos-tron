@@ -1,0 +1,2 @@
+../mtk3_bsp2/mtkernel/kernel/sysinit/sysinit.c:29:12:knl_main	8
+../mtk3_bsp2/mtkernel/kernel/sysinit/sysinit.c:113:13:knl_tkernel_exit	1

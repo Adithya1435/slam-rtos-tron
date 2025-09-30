@@ -1,0 +1,7 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/mailbox.c:189:12:mbx_chg_pri	1
+../mtk3_bsp2/mtkernel/kernel/tkernel/mailbox.c:33:11:knl_mailbox_initialize	3
+../mtk3_bsp2/mtkernel/kernel/tkernel/mailbox.c:57:12:tk_cre_mbx	5
+../mtk3_bsp2/mtkernel/kernel/tkernel/mailbox.c:105:12:tk_del_mbx	5
+../mtk3_bsp2/mtkernel/kernel/tkernel/mailbox.c:134:12:tk_snd_mbx	12
+../mtk3_bsp2/mtkernel/kernel/tkernel/mailbox.c:206:12:tk_rcv_mbx	11
+../mtk3_bsp2/mtkernel/kernel/tkernel/mailbox.c:246:12:tk_ref_mbx	5

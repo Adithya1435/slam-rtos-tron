@@ -1,0 +1,7 @@
+../mtk3_bsp2/mtkernel/kernel/tstdlib/string.c:24:7:knl_memset	16	static
+../mtk3_bsp2/mtkernel/kernel/tstdlib/string.c:65:7:knl_memcpy	8	static
+../mtk3_bsp2/mtkernel/kernel/tstdlib/string.c:79:4:knl_strlen	0	static
+../mtk3_bsp2/mtkernel/kernel/tstdlib/string.c:91:7:knl_strcpy	0	static
+../mtk3_bsp2/mtkernel/kernel/tstdlib/string.c:103:7:knl_strncpy	16	static
+../mtk3_bsp2/mtkernel/kernel/tstdlib/string.c:123:5:knl_strcmp	0	static
+../mtk3_bsp2/mtkernel/kernel/tstdlib/string.c:138:7:knl_strcat	8	static

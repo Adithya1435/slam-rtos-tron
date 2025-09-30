@@ -1,0 +1,11 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/ready_queue.h:208:13:knl_ready_queue_rotate.constprop	0	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/ready_queue.h:162:13:knl_ready_queue_delete.constprop	12	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/ready_queue.h:109:13:knl_ready_queue_insert.constprop	12	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/task.h:110:13:knl_reschedule	0	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/task.c:49:11:knl_task_initialize	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/task.c:84:13:knl_make_dormant	0	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/task.c:118:13:knl_make_ready	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/task.c:133:13:knl_make_non_ready	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/task.c:144:13:knl_change_task_priority	16	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/task.c:174:13:knl_rotate_ready_queue	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/task.c:183:13:knl_rotate_ready_queue_run	8	static

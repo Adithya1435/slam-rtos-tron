@@ -1,0 +1,7 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_sync.c:28:12:tk_sus_tsk	16
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_sync.c:77:12:tk_rsm_tsk	16
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_sync.c:124:12:tk_frsm_tsk	14
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_sync.c:176:12:tk_slp_tsk	10
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_sync.c:208:12:tk_wup_tsk	14
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_sync.c:242:13:tk_can_wup	9
+../mtk3_bsp2/mtkernel/kernel/tkernel/task_sync.c:279:12:tk_dly_tsk	9

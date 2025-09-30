@@ -1,0 +1,7 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/timer.c:70:12:knl_enqueue_tmeb	12	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/timer.c:45:11:knl_timer_startup	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/timer.c:60:13:knl_timer_shutdown	0	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/timer.c:97:13:knl_timer_insert	4	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/timer.c:112:13:knl_timer_insert_reltim	4	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/timer.c:129:13:knl_timer_insert_abs	4	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/timer.c:146:13:knl_timer_handler	16	static

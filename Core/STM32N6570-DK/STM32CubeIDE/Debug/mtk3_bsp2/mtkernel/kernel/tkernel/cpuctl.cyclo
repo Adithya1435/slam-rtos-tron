@@ -1,0 +1,6 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:29:12:tk_dis_dsp	4
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:45:12:tk_ena_dsp	5
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:64:12:tk_set_reg	9
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:93:12:tk_get_reg	9
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:124:12:tk_set_cpr	11
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:156:12:tk_get_cpr	11

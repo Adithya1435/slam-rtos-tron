@@ -1,0 +1,6 @@
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/interrupt.c:33:13:knl_hll_inthdr	1
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/interrupt.c:52:13:knl_systim_inthdr	1
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/interrupt.c:65:11:knl_define_inthdr	3
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/interrupt.c:87:13:knl_return_inthdr	1
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/interrupt.c:93:6:knl_default_handler	1
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/interrupt.c:103:11:knl_init_interrupt	1

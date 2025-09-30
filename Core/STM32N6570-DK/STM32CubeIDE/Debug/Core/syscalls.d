@@ -1,0 +1,2 @@
+Core/syscalls.o: \
+ C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/syscalls.c

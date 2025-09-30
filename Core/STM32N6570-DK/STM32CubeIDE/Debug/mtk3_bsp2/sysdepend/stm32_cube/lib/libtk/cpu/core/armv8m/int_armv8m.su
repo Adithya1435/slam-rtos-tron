@@ -1,0 +1,6 @@
+../mtk3_bsp2/sysdepend/stm32_cube/lib/libtk/cpu/core/armv8m/int_armv8m.c:35:13:set_basepri	0	static,ignoring_inline_asm
+../mtk3_bsp2/sysdepend/stm32_cube/lib/libtk/cpu/core/armv8m/int_armv8m.c:44:11:get_basepri	0	static,ignoring_inline_asm
+../mtk3_bsp2/sysdepend/stm32_cube/lib/libtk/cpu/core/armv8m/int_armv8m.c:55:11:disint	0	static,ignoring_inline_asm
+../mtk3_bsp2/sysdepend/stm32_cube/lib/libtk/cpu/core/armv8m/int_armv8m.c:69:13:SetCpuIntLevel	0	static,ignoring_inline_asm
+../mtk3_bsp2/sysdepend/stm32_cube/lib/libtk/cpu/core/armv8m/int_armv8m.c:77:12:GetCpuIntLevel	0	static,ignoring_inline_asm
+../mtk3_bsp2/sysdepend/stm32_cube/lib/libtk/cpu/core/armv8m/int_armv8m.c:95:13:EnableInt_nvic	8	static,ignoring_inline_asm

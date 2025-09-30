@@ -1,0 +1,12 @@
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:36:6:NMI_Handler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:45:6:HardFault_Handler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:58:6:MemManage_Handler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:73:6:BusFault_Handler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:86:6:UsageFault_Handler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:99:6:SecureFault_Handler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:112:6:SVC_Handler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:121:6:DebugMon_Handler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:133:6:PendSV_Handler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:145:6:SysTick_Handler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:156:6:CSI_IRQHandler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Core/STM32N6570-DK/Src/stm32n6xx_it.c:162:6:DCMIPP_IRQHandler	1

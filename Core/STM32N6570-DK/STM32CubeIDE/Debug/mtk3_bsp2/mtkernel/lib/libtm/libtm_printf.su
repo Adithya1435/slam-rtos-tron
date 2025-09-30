@@ -1,0 +1,6 @@
+../mtk3_bsp2/mtkernel/lib/libtm/libtm_printf.c:48:11:outint	20	static
+../mtk3_bsp2/mtkernel/lib/libtm/libtm_printf.c:64:12:tm_vsprintf	80	static
+../mtk3_bsp2/mtkernel/lib/libtm/libtm_printf.c:328:12:out_buf	8	static
+../mtk3_bsp2/mtkernel/lib/libtm/libtm_printf.c:273:12:out_cons	16	static
+../mtk3_bsp2/mtkernel/lib/libtm/libtm_printf.c:301:12:tm_printf	16	static
+../mtk3_bsp2/mtkernel/lib/libtm/libtm_printf.c:334:12:tm_sprintf	28	static

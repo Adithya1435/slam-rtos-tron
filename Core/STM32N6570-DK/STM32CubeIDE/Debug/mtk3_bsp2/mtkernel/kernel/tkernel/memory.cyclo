@@ -1,0 +1,10 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/memory.c:29:15:knl_searchFreeArea	8
+../mtk3_bsp2/mtkernel/kernel/tkernel/memory.c:77:13:knl_appendFreeArea	4
+../mtk3_bsp2/mtkernel/kernel/tkernel/memory.c:111:13:knl_removeFreeQue	5
+../mtk3_bsp2/mtkernel/kernel/tkernel/memory.c:131:13:knl_insertAreaQue	1
+../mtk3_bsp2/mtkernel/kernel/tkernel/memory.c:142:13:knl_removeAreaQue	1
+../mtk3_bsp2/mtkernel/kernel/tkernel/memory.c:160:14:knl_Imalloc	4
+../mtk3_bsp2/mtkernel/kernel/tkernel/memory.c:211:14:knl_Icalloc	2
+../mtk3_bsp2/mtkernel/kernel/tkernel/memory.c:261:14:knl_Ifree	3
+../mtk3_bsp2/mtkernel/kernel/tkernel/memory.c:230:14:knl_Irealloc	5
+../mtk3_bsp2/mtkernel/kernel/tkernel/memory.c:304:11:knl_init_Imalloc	1

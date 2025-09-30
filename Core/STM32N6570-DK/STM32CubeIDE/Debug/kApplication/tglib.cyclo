@@ -1,0 +1,7 @@
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/kApplication/Src/tglib.c:131:12:draw_rect	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/kApplication/Src/tglib.c:45:4:tliblcd_init	4
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/kApplication/Src/tglib.c:64:4:tliblcd_get_height	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/kApplication/Src/tglib.c:72:4:tliblcd_get_width	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/kApplication/Src/tglib.c:80:6:tliblcd_onoff_lcd	2
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/kApplication/Src/tglib.c:98:6:tliblcd_clear_scr	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/kApplication/Src/tglib.c:108:6:tliblcd_draw_rect	3

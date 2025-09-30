@@ -1,0 +1,11 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:33:11:knl_mutex_initialize	3
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:61:13:knl_release_mutex	7
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:306:12:mtx_chg_pri	4
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:333:12:mtx_rel_wai	2
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:111:13:knl_signal_all_mutex	5
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:158:12:knl_chg_pri_mutex	8
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:211:12:tk_cre_mtx	7
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:268:12:tk_del_mtx	6
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:358:12:tk_loc_mtx	22
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:442:12:tk_unl_mtx	11
+../mtk3_bsp2/mtkernel/kernel/tkernel/mutex.c:501:12:tk_ref_mtx	6

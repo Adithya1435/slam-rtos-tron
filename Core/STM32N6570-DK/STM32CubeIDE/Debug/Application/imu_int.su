@@ -1,0 +1,7 @@
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/imu_int.c:261:18:FusionEulerToQuaternion	80	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/imu_int.c:286:6:lsm6_init	24	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/imu_int.c:333:6:lsm6_Read_acc	32	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/imu_int.c:348:6:lsm6_Read_gyro	32	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/imu_int.c:74:6:TIM6_IRQHandler	136	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/imu_int.c:364:6:IMU_Init	32	static
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/slam_tron/Application/Src/imu_int.c:399:6:Error_Handler	0	static,ignoring_inline_asm

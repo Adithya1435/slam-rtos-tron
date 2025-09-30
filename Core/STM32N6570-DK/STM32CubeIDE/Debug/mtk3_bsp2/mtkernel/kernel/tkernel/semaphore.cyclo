@@ -1,0 +1,8 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/semaphore.c:195:12:sem_chg_pri	5
+../mtk3_bsp2/mtkernel/kernel/tkernel/semaphore.c:233:12:sem_rel_wai	1
+../mtk3_bsp2/mtkernel/kernel/tkernel/semaphore.c:33:11:knl_semaphore_initialize	3
+../mtk3_bsp2/mtkernel/kernel/tkernel/semaphore.c:57:12:tk_cre_sem	8
+../mtk3_bsp2/mtkernel/kernel/tkernel/semaphore.c:109:12:tk_del_sem	5
+../mtk3_bsp2/mtkernel/kernel/tkernel/semaphore.c:138:12:tk_sig_sem	11
+../mtk3_bsp2/mtkernel/kernel/tkernel/semaphore.c:247:12:tk_wai_sem	15
+../mtk3_bsp2/mtkernel/kernel/tkernel/semaphore.c:296:12:tk_ref_sem	5

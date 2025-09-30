@@ -1,0 +1,11 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:60:12:knl_appendFreeAreaBound	6
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:111:13:knl_get_blk	4
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:35:11:knl_memorypool_initialize	3
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:194:13:knl_mpl_wakeup	4
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:378:12:mpl_chg_pri	2
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:396:12:mpl_rel_wai	1
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:240:12:tk_cre_mpl	15
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:336:12:tk_del_mpl	11
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:410:12:tk_get_mpl	14
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:460:12:tk_rel_mpl	17
+../mtk3_bsp2/mtkernel/kernel/tkernel/mempool.c:501:12:tk_ref_mpl	12

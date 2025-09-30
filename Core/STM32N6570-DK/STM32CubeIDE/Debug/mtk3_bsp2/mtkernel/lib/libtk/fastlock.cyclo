@@ -1,0 +1,4 @@
+../mtk3_bsp2/mtkernel/lib/libtk/fastlock.c:54:13:Lock	2
+../mtk3_bsp2/mtkernel/lib/libtk/fastlock.c:64:13:Unlock	2
+../mtk3_bsp2/mtkernel/lib/libtk/fastlock.c:74:11:CreateLock	2
+../mtk3_bsp2/mtkernel/lib/libtk/fastlock.c:99:13:DeleteLock	2

@@ -1,0 +1,4 @@
+../mtk3_bsp2/mtkernel/lib/libtk/kmalloc.c:39:14:Kmalloc	1
+../mtk3_bsp2/mtkernel/lib/libtk/kmalloc.c:44:14:Kcalloc	1
+../mtk3_bsp2/mtkernel/lib/libtk/kmalloc.c:49:14:Krealloc	1
+../mtk3_bsp2/mtkernel/lib/libtk/kmalloc.c:54:13:Kfree	1

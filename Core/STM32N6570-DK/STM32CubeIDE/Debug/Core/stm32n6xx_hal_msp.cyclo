@@ -1,0 +1,2 @@
+../Core/stm32n6xx_hal_msp.c:12:6:HAL_TIM_Base_MspInit	2
+../Core/stm32n6xx_hal_msp.c:38:6:HAL_TIM_Base_MspDeInit	2

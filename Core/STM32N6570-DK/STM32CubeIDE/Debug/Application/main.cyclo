@@ -1,0 +1,13 @@
+../../../../STM32Cube_FW_N6/Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:679:22:LL_MEM_EnableClock	1
+../../../../STM32Cube_FW_N6/Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:785:22:LL_MEM_EnableClockLowPower	1
+../../../../STM32Cube_FW_N6/Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:2065:22:LL_AHB5_GRP1_EnableClockLowPower	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/Application/STM32N6570-DK/Src/main.c:776:13:SystemClock_Config	4
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/Application/STM32N6570-DK/Src/main.c:414:6:IAC_IRQHandler	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/Application/STM32N6570-DK/Src/main.c:603:6:Display_Image	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/Application/STM32N6570-DK/Src/main.c:159:5:main	32
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/Application/STM32N6570-DK/Src/main.c:609:5:int_to_str	6
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/Application/STM32N6570-DK/Src/main.c:644:6:array_to_string	2
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/Application/STM32N6570-DK/Src/main.c:749:19:MX_DCMIPP_ClockConfig	2
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/Application/STM32N6570-DK/Src/main.c:881:6:HAL_CACHEAXI_MspInit	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/Application/STM32N6570-DK/Src/main.c:889:6:HAL_CACHEAXI_MspDeInit	1
+C:/Users/Adi/Music/Stm32_img/STM32N6-GettingStarted-ImageClassification-main/STM32N6-GettingStarted-ImageClassification-main/Application/STM32N6570-DK/Src/main.c:905:6:assert_failed	1

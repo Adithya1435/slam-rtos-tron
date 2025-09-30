@@ -1,0 +1,6 @@
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/cpu_cntl.c:35:13:knl_set_reg	16	static
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/cpu_cntl.c:80:13:knl_get_reg	20	static
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/cpu_cntl.c:129:11:knl_set_cpr	8	static
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/cpu_cntl.c:156:11:knl_get_cpr	8	static
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/cpu_cntl.c:183:13:knl_force_dispatch	0	static
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/cpu_cntl.c:191:13:knl_dispatch	0	static

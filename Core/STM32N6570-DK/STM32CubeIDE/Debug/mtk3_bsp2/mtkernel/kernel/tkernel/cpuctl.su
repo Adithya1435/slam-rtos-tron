@@ -1,0 +1,6 @@
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:29:12:tk_dis_dsp	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:45:12:tk_ena_dsp	8	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:64:12:tk_set_reg	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:93:12:tk_get_reg	32	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:124:12:tk_set_cpr	24	static
+../mtk3_bsp2/mtkernel/kernel/tkernel/cpuctl.c:156:12:tk_get_cpr	24	static

@@ -1,0 +1,8 @@
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/exc_hdr.c:36:23:knl_nmi_handler	1
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/exc_hdr.c:45:23:knl_hardfault_handler	3
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/exc_hdr.c:72:23:knl_memmanage_handler	1
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/exc_hdr.c:81:23:knl_busfault_handler	1
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/exc_hdr.c:91:13:knl_usagefault_handler	1
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/exc_hdr.c:100:23:knl_svcall_handler	1
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/exc_hdr.c:109:23:knl_debugmon_handler	1
+../mtk3_bsp2/sysdepend/stm32_cube/cpu/core/armv8m/exc_hdr.c:118:23:knl_default_handler	2
