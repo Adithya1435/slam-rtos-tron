@@ -100,7 +100,7 @@ STM32_Programmer_CLI -c port=SWD mode=HOTPLUG -el Loader/MX66UW1G45G_STM32N6570-
 
 ## Demo
 
-![depth](res/depth.mp4)
+![depth](res/depth.gif)
 
 ![depth_img](res/depth_img.jpeg)
 
