@@ -86,7 +86,7 @@ LOCAL void task_1(INT stacd, void *exinf)
 	B number_cam_recv = 0;
 	vec3 CURRENT_WORLD_POINTS[MAX_WORLD_POINTS];
 	int num_matches_1 = 0;
-	B flg = 0;
+	//B flg = 0;
 
 
 	/* Not used */
@@ -181,10 +181,10 @@ LOCAL void task_1(INT stacd, void *exinf)
 				memcpy(pd2, pp_input, 224*224);
 			}
 
-			init_map(&frame1, &frame2, K_MAT, &num_matches_1, CURRENT_WORLD_POINTS, (int) MAX_WORLD_POINTS, &currPose, "no", NULL, NULL, NULL, NULL);
+			//init_map(&frame1, &frame2, K_MAT, &num_matches_1, CURRENT_WORLD_POINTS, (int) MAX_WORLD_POINTS, &currPose, "no", NULL, NULL, NULL, NULL);
 			world_points_count = num_matches_1;
 
-			flg = 1;
+			//flg = 1;
 		}
 
 		for(UW i=0; i < MAX_WORLD_POINTS; i++){
@@ -194,9 +194,9 @@ LOCAL void task_1(INT stacd, void *exinf)
 		}
 
 
-		if(flg){
-			tracking_thread(CURRENT_WORLD_POINTS, K_MAT, &nn_gray_frame, &nn_prev_gray_frame, &currOptimalPose, world_points_count, &status);
-		}
+		// if(flg){
+		// 	tracking_thread(CURRENT_WORLD_POINTS, K_MAT, &nn_gray_frame, &nn_prev_gray_frame, &currOptimalPose, world_points_count, &status);
+		// }
 
 		number_cam_recv = (number_cam_recv > 57) ? 58 : (number_cam_recv+1);
 
