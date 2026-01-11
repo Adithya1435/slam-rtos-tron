@@ -98,9 +98,3 @@ STM32_Programmer_CLI -c port=SWD mode=HOTPLUG -el Loader/MX66UW1G45G_STM32N6570-
 STM32_Programmer_CLI -c port=SWD mode=HOTPLUG -el Loader/MX66UW1G45G_STM32N6570-DK.stldr -hardRst -w network_data_fastdepth.hex 0x71000000
 ```
 
-## Demo
-
-![depth](res/depth.gif)
-
-![depth_img](res/depth_img.jpeg)
-
